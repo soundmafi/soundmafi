@@ -15,15 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 𝗗𝗶𝗺𝗮 🤜🤛</h1> 
-<!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
- <p>- 💻 I'm currently studying in TeachMeSkills.</p>
- <p>- 🎓 I’m currently learning Javascript/React/Typescript</p>
+<h1 align="center">𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 𝗗𝗶𝗺𝗮 🤜🤛</h1>
+<h3>About me:</h3>
+<ul>
+<li><p>💻 I'm currently studying in TeachMeSkills.</p></li>
+<li><p>🎓 I’m currently learning Javascript/React/Typescript</p></li>
+<li><p>🎛️ Audio engineer & 🎹 Musician background</li>
+ <li><p>🏃 Trail running addict</li>
+ 
+</ul>
+ 
+ 
  <h3> ✉️ Contacts: </h3>
-    <a href="mailto:soundmafi@gmail.com">soundmafi@gmail.com</a>
-   
-  <a href="https://www.linkedin.com/in/soundmafi/">Linkedin</a>
-
+ <ul>
+ <li><a href="mailto:soundmafi@gmail.com">  soundmafi@gmail.com</a> </li>
+ <li><a href="https://www.linkedin.com/in/soundmafi/">  Linkedin</a></li>
+</ul>
 <h3> My CodeWars</h3>
 <img src="https://www.codewars.com/users/soundmafi/badges/large">
 
