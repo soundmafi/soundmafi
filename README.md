@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 𝗗𝗶𝗺𝗮 🤜🤛</h1>
-<h3>About me:</h3>
+<h3>🤵🏻 About me:</h3>
 <ul>
 <li><p>💻 I'm currently studying in TeachMeSkills.</p></li>
 <li><p>🎓 I’m currently learning Javascript/React/Typescript</p></li>
@@ -31,6 +31,11 @@ Here are some ideas to get you started:
  <li><a href="mailto:soundmafi@gmail.com">  soundmafi@gmail.com</a> </li>
  <li><a href="https://www.linkedin.com/in/soundmafi/">  Linkedin</a></li>
 </ul>
+
+<h3>My skills</h3>
+<p>Will be added...</p>
+
+
 <h3> My CodeWars</h3>
 <img src="https://www.codewars.com/users/soundmafi/badges/large">
 
