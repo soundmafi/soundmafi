@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 𝗗𝗶𝗺𝗮 🤜🤛</h1>
 <h3>🤵🏻 About me:</h3>
 <ul>
-  <li><p>🎓 I’m currently learning Javascript/React/Typescript</p></li>
+  <li><p>🎓 I’m currently learning Javascript/React/NodeJS</p></li>
   <li><p>🎛️ Audio engineer & 🎹 Musician background</li>
   <li><p>🏃 Trail running addict</li>
 </ul>
@@ -34,7 +34,9 @@ Here are some ideas to get you started:
   <li><p>Javascript</p></li>
   <li><p>Typescript</p></li>
   <li><p>React</li>
+  <li><p>Redux</li>
   <li><p>HTML/CSS/SCSS</p></li>
+  <li><p>Styled Components</p></li>
   <li><p>Bootstrap</li>
   <li><p>Will be added...</li>
 </ul>
