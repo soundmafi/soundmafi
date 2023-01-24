@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 𝗗𝗶𝗺𝗮 🤜🤛</h1>
 <h3>🤵🏻 About me:</h3>
 <ul>
-  <li><p>🎓 I’m currently learning Javascript/React/NodeJS</p></li>
-  <li><p>🎛️ Audio engineer & 🎹 Musician background</li>
+  <li><p>🎓 I’m currently learning NodeJS/postgreSQL/Docker</p></li>
+  <li><p>🎛️ Audio engineer background</li>
   <li><p>🏃 Trail running addict</li>
 </ul>
  
@@ -31,14 +31,13 @@ Here are some ideas to get you started:
 
 <h3>My technology skills</h3>
 <ul>
-  <li><p>Javascript</p></li>
-  <li><p>Typescript</p></li>
-  <li><p>React</li>
-  <li><p>Redux</li>
-  <li><p>HTML/CSS/SCSS</p></li>
+  <li><p>Javascript / Typescript </p></li>
+  <li><p>React Next js</li>
+  <li><p>Redux / Redux toolkit</li>
+  <li><p>HTML/CSS/SASS</p></li>
   <li><p>Styled Components</p></li>
-  <li><p>Bootstrap</li>
-  <li><p>Will be added...</li>
+  <li><p>Firebase</p></li>
+  
 </ul>
 
 <h3> My CodeWars</h3>
