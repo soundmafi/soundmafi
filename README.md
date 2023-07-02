@@ -40,8 +40,5 @@ Here are some ideas to get you started:
   
 </ul>
 
-<h3> My CodeWars</h3>
-<img src="https://www.codewars.com/users/soundmafi/badges/large">
-
  
  
